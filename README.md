@@ -1,6 +1,6 @@
 # 🍴 😋 Eat and Split ✂️💵
 
-## [Live Demo]()
+## [Live Demo](https://split-the-bill-with-friends.netlify.app/)
 
 ## Eat and Split is a Bill Split Calculator
 
